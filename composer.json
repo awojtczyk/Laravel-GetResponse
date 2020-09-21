@@ -1,5 +1,5 @@
 {
-  "name": "slavka/laravel-getresponse",
+  "name": "awojtczyk/laravel-getresponse",
   "description": "A Laravel 7 wrapper for the GetResponse API",
   "keywords": ["laravel", "laravel7", "getresponse"],
   "license": "MIT",
